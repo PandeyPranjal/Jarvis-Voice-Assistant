@@ -20,9 +20,4 @@ Jarvis is a Python-based virtual voice assistant that uses speech recognition, t
 - [NewsAPI](https://newsapi.org/)
 - [musiclibrary](./musiclibrary.py) (your custom Python file with music links)
 
-## 📦 Installation
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/jarvis-voice-assistant.git
-cd jarvis-voice-assistant
